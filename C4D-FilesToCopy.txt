@@ -1,0 +1,6 @@
+language.prf
+prefs/
+plugins/
+userrepository/
+library/layout/
+library/scripts/
