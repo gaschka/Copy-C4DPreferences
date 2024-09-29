@@ -11,6 +11,7 @@ This PowerShell script simplifies the migration of preferences and plugins from 
 ### Step 1: Configure Files and Folders
 - Open the file `C4D-FilesToCopy.txt`.
 - Add the paths of the files and folders you'd like to migrate. Each path should be listed on a new line.
+- Consult: https://support.maxon.net/hc/en-us/articles/5052087051804-Where-are-my-custom-layouts-assets-plugins-shortcuts-etc-stored-in-the-Cinema-4D-preferences
 
 ### Step 2: Run the PowerShell Script
 - Open Windows PowerShell.
